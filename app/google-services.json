@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684359191497",
+    "project_id": "arkadas-chat-1dc0f",
+    "storage_bucket": "arkadas-chat-1dc0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684359191497:android:a10051a76276c7c0323618",
+        "android_client_info": {
+          "package_name": "com.arkadas.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZImSA5Xz0cYVxM3FXMDzDWHl7LQFXTTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
